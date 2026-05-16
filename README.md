@@ -62,9 +62,3 @@ python risk_prediction_model.py --data-file 你的数据文件.csv --time-column
 - matplotlib
 - scikit-learn
 - tensorflow
-
-## 扩展建议
-1. 尝试不同的深度学习模型结构
-2. 优化风险等级划分方法
-3. 添加更多的可视化分析图表
-4. 集成实时数据更新功能
